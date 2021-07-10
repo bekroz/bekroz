@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Bek Rozikoff!
 
 - I’m Full MERN Stack Developer ⚛️
-
+ 
+ 
 - Check out my portfolio: www.BekRoz.com
   
+  
 - 📫 Email me >>>  bekrozikoff@gmail.com 
-- DM me on Telegram >>>  @bek_roz
+- DM me on Telegram >>>  https://t.me/bekrozi
+ 
  
 - Fun Facts about me:
 - My reading speed: 1 page/min 📚
