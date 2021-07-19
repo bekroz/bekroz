@@ -3,7 +3,7 @@
 - I’m Full MERN Stack Developer 
  
  
-# Checkout out my clone projects build on React ⚛️:
+# Checkout my clone projects build on React ⚛️:
 
 - Amazon: https://amazos.web.app/
 - AirBnB: https://airbnb-clone-ef00a.web.app
