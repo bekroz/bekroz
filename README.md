@@ -18,7 +18,7 @@
 - Check out my portfolio website: www.BekRoz.com
   
 # HIRE ME  
-- 🗂 Resumé >>> github.com/bekrozikoff/resume
+- 🗂 Resumé >>> www.github.com/bekrozikoff/resume
 - Email me >>>  bekrozikoff@gmail.com 
 - DM me on Telegram >>>  https://t.me/bekrozi
 - Fun Facts about me:
