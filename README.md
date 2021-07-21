@@ -18,9 +18,9 @@
 - Check out my portfolio website: www.BekRoz.com
   
 # HIRE ME  
-- 📫 Email me >>>  bekrozikoff@gmail.com 
+- 🗂 Resumé >>> github.com/bekrozikoff/resume
+- Email me >>>  bekrozikoff@gmail.com 
 - DM me on Telegram >>>  https://t.me/bekrozi
- 
 - Fun Facts about me:
 - I really love sushi 🍣 😋 (muah) and reading non-fiction books at 4 a.m in the morning.📚
 <!---
