@@ -7,6 +7,7 @@
 
 - Amazon: https://amazos.web.app/
 - AirBnB: https://airbnb-clone-ef00a.web.app
+- Slack:  https://sllack.web.app
 - TikTok: https://tiktok-clone-28ad6.web.app
 
 # Other projects:
