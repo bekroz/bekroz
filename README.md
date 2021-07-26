@@ -10,6 +10,8 @@
 - Slack:  https://sllack.web.app
 - TikTok: https://tiktok-clone-28ad6.web.app
 
+(You can clone my code, but please, stop stealing my API keys. 🙏🥺)
+
 # Other projects:
 - Simple Web-messenger: https://giybat-chat.web.app
 
