@@ -1,7 +1,4 @@
-# 👋 Hi, I’m Bek Rozikoff!
-
-- I’m Full MERN Stack Developer 
- 
+# 👋 Hi, I’m BEK - Full Stack MERN Developer! ⚛️
  
 # Checkout my clone projects build on React ⚛️:
 
