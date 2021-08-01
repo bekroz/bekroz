@@ -1,6 +1,6 @@
-# 👋 Hi, I’m BEK - Full Stack MERN Developer! ⚛️
+# 👋 Hi, I’m BEK - Full Stack MERN Developer!
  
-# Checkout my clone projects build on React ⚛️:
+## Checkout my clone projects build on React ⚛️:
 
 - Amazon: https://amazos.web.app/
 - AirBnB: https://airbnb-clone-ef00a.web.app
@@ -9,15 +9,15 @@
 
 (You can clone my code, but please, stop stealing my API keys. 🙏🥺)
 
-# Other projects:
+## Other projects:
 - Simple Web-messenger: https://giybat-chat.web.app
 
-# My pet project:
+## My pet project:
 - Voyagely: Safe travelling during COVID-19 era. (Not deployed yet ^^)
 
 - Check out my portfolio website: www.BekRoz.com
   
-# HIRE ME  
+## HIRE ME  
 - 🗂 Resumé >>> www.github.com/bekrozikoff/resume
 - Email me >>>  bekrozikoff@gmail.com 
 - DM me on Telegram >>>  https://t.me/bekrozi
