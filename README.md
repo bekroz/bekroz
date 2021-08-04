@@ -4,7 +4,7 @@
 
 ### Commercial
 
-- Amazon: amazos.web.app
+- Amazon: www.amazos.web.app
 - AirBnB: airbnp.web.app
 - UberEats: ubereato.web.app
 
