@@ -2,25 +2,39 @@
  
 ## Checkout my clone projects build on React ⚛️:
 
-- Amazon: https://amazos.web.app/
-- AirBnB: https://airbnb-clone-ef00a.web.app
-- Slack:  https://sllack.web.app
-- TikTok: https://tiktok-clone-28ad6.web.app
+### Commercial
 
-(You can clone my code, but please, stop stealing my API keys. 🙏🥺)
+- Amazon: amazos.web.app
+- AirBnB: airbnp.web.app
+- UberEats: ubereato.web.app
+
+### Social
+
+- Slack:  sllack.web.app
+- Twitter: toitter.web.app
+- TikTok: tiktoz.web.app
+- Facebook: facebooz.web.app
+
+### Media
+
+- Spotify: ipotify.web.app
+- Netflix: netflio.web.app
+- YouTube: youtubl.web.app
+ 
+If you find my repos useful, don't forget to give a star. :)
 
 ## Other projects:
-- Simple Web-messenger: https://giybat-chat.web.app
+- Simple Web-messenger: giybat-chat.web.app
 
 ## My pet project:
 - Voyagely: Safe travelling during COVID-19 era. (Not deployed yet ^^)
 
-- Check out my portfolio website: www.BekRoz.com
+- Check out BETA version my website: bekroz.netlify.app
   
 ## HIRE ME  
-- 🗂 Resumé >>> www.github.com/bekrozikoff/resume
+- 🗂 Resumé >>> github.com/bekrozikoff/resume
 - Email me >>>  bekrozikoff@gmail.com 
-- DM me on Telegram >>>  https://t.me/bekrozi
+- DM me on Telegram >>>  t.me/bekrozi
 - Fun Facts about me:
 - I really love sushi 🍣 😋 (muah) and reading non-fiction books at 4 a.m in the morning.📚
 <!---
