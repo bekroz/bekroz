@@ -7,7 +7,7 @@
 - Amazon: www.amazos.web.app
 - AirBnB: www.airbnp.web.app
 - UberEats: www.ubereato.web.app
-- Click: www.uzclick.web.app
+- Click: www.uzclick.netlify.app
 
 ### Social
 
