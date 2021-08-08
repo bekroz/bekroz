@@ -25,8 +25,10 @@
 If you find my repos useful, don't forget to give a star. :)
 
 ## My pet projects:
-- Giybat chat: www.giybat-chat.web.app
-- Voyagely: Safe travelling during COVID-19 era. (Not deployed yet ^^)
+- 💬 Giybat chat: www.giybat-chat.web.app
+- 😷 Covid-19 Tracker: www.covidoradar.netlify.app
+- ✈️ Voyagely: Safe travelling during COVID-19 era. (Not deployed yet ^^)
+- 
   
 ## HIRE ME  
 - 🗂 Resumé >>> www.github.com/bekrozikoff/resume
