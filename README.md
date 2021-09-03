@@ -30,7 +30,7 @@ If you find my repos useful, don't forget to give a star. :)
 - ✈️ Voyagely: Safe travelling during COVID-19 era. (Not deployed yet ^^)
   
 ## HIRE ME  
-- Resumé: https://github. You com/bekrozikoff/resume
+- Resumé: https://github.com/bekrozikoff/resume
 - Telegram: https://t.me/bek_roz
 - Email:  bekrozikoff@gmail.com 
 - Just say "Hi!👋".
