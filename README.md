@@ -1,18 +1,19 @@
-# 🔥 Senior Tips on YouTube is out from 20th March, 2022. 🔥
+# 🔥 SeniorTips on YouTube now! 🔥
 
-⚡️ Let's build clean, robust, advanced React / React Native apps together. ⚡️
-The only channel you'll ever need. Completeley free. 🤯
+⚡️ Let's build clean, robust, advanced React / React Native apps from scratch. ⚡️
+
+Yep, the only channel you'll ever need. Completeley free. 🤯
  
  
 ## Join SeniorTips community: 
 
-▶️  YouTube: bit.ly/seniortipspage
+▶️  YouTube: https://bit.ly/seniortipspage
 
-🌐  Website: seniortips.xyz
+🌐  Website: https://seniortips.xyz
 
-📸  Instagram: instagram.com/senior.tips
+📸  Instagram: https://instagram.com/senior.tips
 
-✈️  Telegram: t.me/seniortips
+✈️  Telegram: https://t.me/seniortips
 
 
 ## CONTACTS:
