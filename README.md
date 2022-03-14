@@ -2,21 +2,21 @@
 
 ⚡️ Let's build clean, robust, advanced React / React Native apps from scratch. ⚡️
 
-Yep, the only channel you'll ever need. Completeley free. 🤯
+Yep, the only channel you'll ever need. Completely free. 🤯
  
  
 ## Join SeniorTips community: 
 
-▶️  YouTube: https://bit.ly/seniortipspage
+▶️   YouTube: https://bit.ly/seniortipspage
 
-🌐  Website: https://seniortips.xyz
+🌐   Website: https://seniortips.xyz
 
-📸  Instagram: https://instagram.com/senior.tips
+📸   Instagram: https://instagram.com/senior.tips
 
-✈️  Telegram: https://t.me/seniortips
+✈️   Telegram: https://t.me/seniortips
 
 
-## CONTACTS:
+### CONTACTS:
 
 - DM: https://t.me/bekroz
 - Email:  bekroz@protonmail.com 
