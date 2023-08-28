@@ -6,21 +6,33 @@
 <!-- <a href="https://stackexchange.com/users/20745351"><img src="https://stackexchange.com/users/flair/20745351.png?theme=dark" width="208" height="58" alt="profile for Bek Roz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Bek Roz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
  -->
 
-[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/15234056?color=F47F24&style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation)](https://stackoverflow.com/users/15234056/bek-roz)
+[![BekRoz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bekroz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bekroz)
 
-[![Wakatime](https://wakatime.com/badge/user/6373ce6f-f6f3-415b-bdb1-eb265dc97e32.svg?style=for-the-badge)](https://wakatime.com/@6373ce6f-f6f3-415b-bdb1-eb265dc97e32)
 
-[![LinkTree](https://img.shields.io/badge/linktree-0C9D00?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bekroz)
+<a href="https://bekroz.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=xcode&logoColor=white" height=25>
+</a> 
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com)
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bekroz)
+<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbekroz">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/15234056?color=F47F24&style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation" height=25>
+</a> 
+<a href="https://wakatime.com/@6373ce6f-f6f3-415b-bdb1-eb265dc97e32">
+    <img src="https://wakatime.com/badge/user/6373ce6f-f6f3-415b-bdb1-eb265dc97e32.svg?style=for-the-badge" height=25>
+</a> 
+<br/>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bekroz)
+<a href="https://www.gitlab.com/bekroz">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height=25>
+</a> 
 
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bekroz)
+<a href="https://leetcode.com/bekroz">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height=25>
+</a> 
 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/bekroz)
+<a href="https://www.hackerrank.com/bekroz">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25>
+</a> 
 
 <!-- ## 📲 Check Out My Apps
 
@@ -39,33 +51,52 @@
 
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/bekroz)
  
- 
-## ⚡️ Contact Me 
+## ⏳ Availability
 
-
-[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:bek@bekroz.com?subject=Project%20Discussion&body=Hello,%20Bek!%0A%0AI'd%20like%20to%20offer%20collaboration%20on%20my%20project.%20%0A%0ABest%20regards%2C)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekroz)
-
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bekroz_me/%3Cthread_id%3E/%3Cid%3E?single&comment=%3Cmessage_id%3E&t=%3Cmedia_timestamp%3E)
 
 [![Calendly](https://img.shields.io/badge/Calendly-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bekroz)
+## ⚡️ Contact
 
-## 🎗️ Support Me
+<a href="mailto:bek@bekroz.com?subject=Project%20Discussion&body=Hello,%20Bek!%0A%0AI'd%20like%20to%20offer%20collaboration%20on%20my%20project.%20%0A%0ABest%20regards%2C">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/bekroz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bekroz)
+<a href="https://t.me/bekroz_me/%3Cthread_id%3E/%3Cid%3E?single&comment=%3Cmessage_id%3E&t=%3Cmedia_timestamp%3E">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
+</a> 
+<a href="https://t.me/bekroz_me/%3Cthread_id%3E/%3Cid%3E?single&comment=%3Cmessage_id%3E&t=%3Cmedia_timestamp%3E">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25>
+</a> 
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/bekroz)
+## 🎗️ Support
 
-## 🔥 Follow Me: 
+<a href="https://patreon.com/bekroz">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height=25>
+</a> 
+<a href="https://buymeacoffee.com/bekroz">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height=25>
+</a> 
 
-[![Calendly](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bek_roz)
+## 🔥 Follow 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/senior.tips)
+<a href="https://x.com/bek_roz">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" height=25>
+</a> 
+<a href="https://medium.com/@bekroz">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a> 
+<a href="https://dev.to/bekroz">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25>
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bekroz)
+<a href="https://instagram.com/bek_roz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25>
+</a>
+<a href="https://youtube.com/@bekroz">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25>
+</a>
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bekroz.com)
-
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/bekroz)
+<!-- [![Made With Love](https://img.shields.io/badge/Made%20With%20-🤍-black.svg)](https://github.com/bekroz) -->
