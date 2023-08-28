@@ -8,9 +8,8 @@
 
 [![BekRoz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bekroz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bekroz)
 
-
 <a href="https://bekroz.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=xcode&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dribbble&logoColor=white" height=25>
 </a> 
 </br>
 
@@ -72,7 +71,7 @@
 <a href="https://t.me/bekroz_me/%3Cthread_id%3E/%3Cid%3E?single&comment=%3Cmessage_id%3E&t=%3Cmedia_timestamp%3E">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
 </a> 
-<a href="https://t.me/bekroz_me/%3Cthread_id%3E/%3Cid%3E?single&comment=%3Cmessage_id%3E&t=%3Cmedia_timestamp%3E">
+<a href="https://api.whatsapp.com/send?phone=998904162896&text=Hello,%20Bek!%20I'd%20like%20to%20collaborate%20on%20my%20project.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25>
 </a> 
 
