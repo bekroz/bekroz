@@ -52,9 +52,6 @@
 
 [![Calendly](https://img.shields.io/badge/Calendly-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bekroz)
 
-https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
-
-
 ## 🎗️ Support Me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bekroz)
