@@ -12,15 +12,17 @@
 <a href="https://bekroz.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=xcode&logoColor=white" height=25>
 </a> 
-
+</br>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fbekroz">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/15234056?color=F47F24&style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation" height=25>
 </a> 
+</br>
 <a href="https://wakatime.com/@6373ce6f-f6f3-415b-bdb1-eb265dc97e32">
     <img src="https://wakatime.com/badge/user/6373ce6f-f6f3-415b-bdb1-eb265dc97e32.svg?style=for-the-badge" height=25>
 </a> 
-<br/>
+</br>
+</br>
 
 <a href="https://www.gitlab.com/bekroz">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height=25>
