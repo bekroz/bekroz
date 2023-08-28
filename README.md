@@ -1,13 +1,24 @@
 # Clean. Native. Mobile. 📲
 
-## 🥸 About Me
+## 🥸 About Me 
 
 <!-- ### What should I write here? DM me. 🤔 -->
 
-
-[![wakatime](https://wakatime.com/badge/user/6373ce6f-f6f3-415b-bdb1-eb265dc97e32.svg?style=for-the-badge)](https://wakatime.com/@6373ce6f-f6f3-415b-bdb1-eb265dc97e32)
+[![Wakatime](https://wakatime.com/badge/user/6373ce6f-f6f3-415b-bdb1-eb265dc97e32.svg?style=for-the-badge)](https://wakatime.com/@6373ce6f-f6f3-415b-bdb1-eb265dc97e32)
 
 [![LinkTree](https://img.shields.io/badge/linktree-0C9D00?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bekroz)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com)
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bekroz)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bekroz)
+
+[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bekroz)
+
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/bekroz)
+
+
 
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15234056/bek-roz)
 
@@ -26,6 +37,7 @@
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/bekroz)
 
+
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/bekroz)
  
  
@@ -41,13 +53,14 @@
 
 [![Calendly](https://img.shields.io/badge/Calendly-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bekroz)
 
+https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
+
 
 ## 🎗️ Support Me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bekroz)
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/bekroz)
-
 
 ## 🔥 Follow Me: 
 
@@ -58,3 +71,5 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bekroz)
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bekroz.com)
+
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/bekroz)
