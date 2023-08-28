@@ -1,12 +1,12 @@
 # Clean. Native. Mobile. 📲
 
-## Hire Now.
+## 🤝 Hire Now
 
-[Upwork](https://www.upwork.com/freelancers/bekroz)
+- [Upwork](https://www.upwork.com/freelancers/bekroz)
 
-[Fiverr](https://www.fiverr.com/bekroz)
+- [Fiverr](https://www.fiverr.com/bekroz)
 
-[Freelancer](https://www.freelancer.com/u/bekroz)
+- [Freelancer](https://www.freelancer.com/u/bekroz)
  
 
 ## ⚡️ Contact Me 
@@ -24,10 +24,10 @@
 
 ## 🔥 Follow SeniorTips: 
 
--  [YouTube]('https://www.youtube.com/@senior_tips')
+-  [YouTube](https://www.youtube.com/@senior_tips)
 
--  [Website]('https://seniortips.io')
+-  [Website](https://seniortips.io)
 
--  [Instagram]('https://instagram.com/senior.tips')
+-  [Instagram](https://instagram.com/senior.tips)
 
--  [Telegram]('https://t.me/seniortips')
+-  [Telegram](https://t.me/seniortips)
