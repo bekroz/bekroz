@@ -62,7 +62,7 @@
 ## ⚡️ Contact
 
 <a href="mailto:bek@bekroz.com?subject=Project%20Discussion&body=Hello,%20Bek!%0A%0AI'd%20like%20to%20offer%20collaboration%20on%20my%20project.%20%0A%0ABest%20regards%2C">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/MAIL-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height=25>
 </a> 
 <a href="https://www.linkedin.com/in/bekroz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25>
