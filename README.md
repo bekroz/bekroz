@@ -3,6 +3,10 @@
 ## 🥸 About Me 
 
 <!-- ### What should I write here? DM me. 🤔 -->
+<!-- <a href="https://stackexchange.com/users/20745351"><img src="https://stackexchange.com/users/flair/20745351.png?theme=dark" width="208" height="58" alt="profile for Bek Roz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Bek Roz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+ -->
+
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/15234056?color=F47F24&style=for-the-badge&logo=stackoverflow&logoColor=white&label=Reputation)](https://stackoverflow.com/users/15234056/bek-roz)
 
 [![Wakatime](https://wakatime.com/badge/user/6373ce6f-f6f3-415b-bdb1-eb265dc97e32.svg?style=for-the-badge)](https://wakatime.com/@6373ce6f-f6f3-415b-bdb1-eb265dc97e32)
 
@@ -17,11 +21,6 @@
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/bekroz)
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/bekroz)
-
-
-
-[![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15234056/bek-roz)
-
 
 <!-- ## 📲 Check Out My Apps
 
