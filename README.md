@@ -46,13 +46,16 @@
 
 ## 🤝 Hire Now
 
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bekroz)
+<a href="https://www.fiverr.com/bekroz">
+    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height=25>
+</a> 
+<a href="https://www.upwork.com/freelancers/bekroz">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" height=25>
+</a> 
+<a href="https://www.freelancer.com/u/bekroz">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" height=25>
+</a> 
 
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/bekroz)
-
-
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/bekroz)
- 
 ## ⏳ Availability
 
 
