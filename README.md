@@ -9,8 +9,6 @@
 [![BekRoz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bekroz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bekroz)
 
 
-[![bekroz-website](https://img.shields.io/website-up-down-black-red/http/bekroz.com.svg)](http://bekroz.com/)
-
 <a href="https://bekroz.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dribbble&logoColor=white" height=25>
 </a> 
