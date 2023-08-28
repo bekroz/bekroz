@@ -41,8 +41,6 @@
 
 [![Calendly](https://img.shields.io/badge/Calendly-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bekroz)
 
-https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
-
 
 ## 🎗️ Support Me
 
