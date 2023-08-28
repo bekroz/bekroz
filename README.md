@@ -8,6 +8,9 @@
 
 [![BekRoz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bekroz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bekroz)
 
+
+[![bekroz-website](https://img.shields.io/website-up-down-black-red/http/bekroz.com.svg)](http://bekroz.com/)
+
 <a href="https://bekroz.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dribbble&logoColor=white" height=25>
 </a> 
@@ -22,6 +25,7 @@
 </a> 
 </br>
 </br>
+
 
 <a href="https://www.gitlab.com/bekroz">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height=25>
@@ -59,6 +63,7 @@
 
 
 [![Calendly](https://img.shields.io/badge/Calendly-0080FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/bekroz)
+
 ## ⚡️ Contact
 
 <a href="mailto:bek@bekroz.com?subject=Project%20Discussion&body=Hello,%20Bek!%0A%0AI'd%20like%20to%20offer%20collaboration%20on%20my%20project.%20%0A%0ABest%20regards%2C">
@@ -103,4 +108,7 @@
     <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25>
 </a>
 
-<!-- [![Made With Love](https://img.shields.io/badge/Made%20With%20-🤍-black.svg)](https://github.com/bekroz) -->
+</br>
+
+[![Made With Love](https://img.shields.io/badge/Made%20With%20-🤍-black.svg)](https://github.com/bekroz)
+[![Made With Love](https://komarev.com/ghpvc/?username=bekroz&style=flat-square)](https://github.com/bekroz)
