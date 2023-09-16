@@ -85,7 +85,10 @@
 </a> 
 <a href="https://buymeacoffee.com/bekroz">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height=25>
-</a> 
+</a>
+<a href="https://github.com/sponsors/bekroz">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link&color=red" height=25>
+</a>
 
 ## 🔥 Follow 
 
